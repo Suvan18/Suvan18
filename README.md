@@ -5,6 +5,10 @@
 
 - 🔭 I’m currently working on **Online Health Care Products Management System**
 
+- 🌱 I’m currently learning **Python Full Stack Developer Course**
+
+- 📫 How to reach me **kedilayasuvan1805@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/suvan-p-kedilaya-505823249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suvan-p-kedilaya-505823249" height="30" width="40" /></a>
